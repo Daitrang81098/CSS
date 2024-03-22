@@ -1,0 +1,51 @@
+{
+  "Index": {
+    "metadata": {
+      "title": "Homepage"
+    },
+    "title": "Hello world!",
+    "registerNow": "Register now"
+  },
+  "Header": {
+    "homepage": "Homepage",
+    "aboutus": "About us",
+    "news": "News",
+    "contact": "Contact",
+    "agnews": "News about AG"
+  },
+  "About-us": {
+    "aboutus": "About us",
+    "about": "About",
+    "Vision and mission": "Vision and mission",
+    "Vision": "Vision",
+    "mission": "Mission",
+    "Core values": "Core values",
+    "creative": "Creative",
+    "Unite": "Unite",
+    "Responsibility": "Responsibility",
+    "Companion": "Companion",
+    "Professional": "Professional",
+    "Contact us": "Contact us",
+    "Submit form": "Submit form",
+    "content": {
+      "aboutus1": "Established in…, <span style='color: #ee473f;'>Athena Group</span> started with only nearly 10 employees. As of June 2021, at the time of official business operations, the number of official employees of the Company has increased to more than 30 people. Entering 2022, with the goal of stability and development, the Company expands its market and welcomes more employees. From the end of 2022 until now, the Company's staff size has increased from 100 employees to more than 400 employees.",
+      "aboutus2": "With existing knowledge and experience, <span style='color: #ee473f;'>Athena Group</span> has been rising to become an investment enterprise capable of leading the Vietnamese market, keeping up with e-commerce trends in the region and joining the flow. global e-logistics technology.",
+      "aboutus3": "Building on that strength, <span style='color: #ee473f;'>Athena Holding</span> is increasingly expanding its investment with potential projects: Olympus Project, Hz Media,... aiming for a multi-field, multi-platform, multi-market investment unit.",
+      "vision": "Athena Group aims to become an investment enterprise capable of leading the Vietnamese market, keeping up with e-commerce trends in the region and joining the global e-logistics technology flow.",
+      "mission": "Invest in developing e-commerce projects and improving the quality of sales support services in Southeast Asia.",
+      "creative": "Promote creative thinking and constantly absorb and update new trends to increasingly improve and breakthrough processes and services.",
+      "unite": "Connecting and creating bonds between employees and employees and between employees and the Company plays an important role, creating a multicultural environment and aiming for sustainable development.",
+      "responsibility": "With the perception that responsibility is the root of the problem, we always focus on and set out the Customer centric principle.",
+      "companion": "Not stopping at meeting customer needs, we always stand side by side and accompany customers throughout the development process to work together towards common goals.",
+      "professional": "Professional culture is a mirror that reflects the values, beliefs and general working style of the business. It is a prerequisite factor in forming the reputation and prestige of the organization."
+    }
+  },
+  "Register": {
+    "register": "Register",
+    "fullname": "Fullname",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "submit": "Submit"
+  }
+}

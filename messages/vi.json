@@ -1,0 +1,53 @@
+{
+  "Index": {
+    "metadata": {
+      "title": "Trang chủ"
+    },
+    "title": "Xin chao",
+    "registerNow": "Đăng ký ngay"
+  },
+  "Header": {
+    "homepage": "Trang chủ",
+    "aboutus": "Về chúng tôi",
+    "news": "Tin tức",
+    "contact": "Liên hệ",
+    "agnews": "Tin tức về AG"
+  },
+  "About-us": {
+    "aboutus": "Về chúng tôi",
+    "about": "Về",
+    "Vision and mission": "Tầm nhìn và sứ mệnh",
+    "Vision": "Tần nhìn",
+    "mission": "Sứ mệnh",
+    "Core values": "Giá trị cốt lõi",
+    "creative": "Sáng tạo",
+    "Unite": "Đoàn kết",
+    "Responsibility": "Trách nhiệm",
+    "Companion": "Đồng hành",
+    "Professional": "Chuyên nghiệp",
+    "Contact us": "Liên hệ với chúng tôi",
+    "Submit form": "Gửi liên hệ",
+    "content": {
+      "aboutus1": "Thành lập năm…, <span style='color: #ee473f;'>Athena Group</span> khởi đầu chỉ với gần 10 nhân sự. Tính đến tháng 06/2021, tại thời chính thức đi vào hoạt động kinh doanh, số lượng nhân sự chính thức của Công ty đã tăng lên con số là hơn 30 người. Bước sang năm 2022, với mục tiêu ổn định và phát triển, Công ty mở rộng thị trường của mình và đón chào thêm nhiều nhân sự hơn nữa. Tính từ giai đoạn cuối năm 2022 đến nay, quy mô nhân sự của Công ty đã tăng từ 100 nhân sự lên hơn 400 nhân sự.",
+      "aboutus2": "Với sự am hiểu và kinh nghiệm sẵn có, <span style='color: #ee473f;'>Athena Group</span> đã và đang vươn lên trở thành doanh nghiệp đầu tư có năng lực dẫn dắt thị trường Việt Nam, bắt kịp xu hướng thương mại điện tử trong khu vực và hòa chung với dòng chảy công nghệ e-logistics toàn cầu.",
+      "aboutus3": "Trên đà sức mạnh đó, <span style='color: #ee473f;'>Athena Holding</span> ngày càng mở rộng đầu tư với các dự án tiềm năng: Dự án Olympus, Hz Media,...hướng tới 1 đơn vị đầu tư đa lĩnh vực, đa nền tảng, đa thị trường.",
+      "vision": "Athena Group định hướng trở thành doanh nghiệp đầu tư có năng lực dẫn dắt thị trường Việt Nam, bắt kịp xu hướng thương mại điện tử trong khu vực và hòa chung với dòng chảy công nghệ e-logistics toàn cầu.",
+      "mission": "Đầu tư phát triển các dự án thương mại điện tử và nâng cao chất lượng dịch vụ hỗ trợ bán hàng khu vực Đông Nam Á.",
+      "creative": "Đề cao tư duy sáng tạo và không ngừng tiếp thu, cập nhật xu hướng mới để ngày càng cải tiến, đột phá cho quy trình và dịch vụ.",
+      "unite": "Kết nối và tạo sự gắn bó giữa các nhân sự với nhân sự và giữa nhân sự với Công ty có vai trò quan trọng, tạo nên môi trường đa văn hóa và hướng tới mục tiêu phát triển bền vững.",
+      "responsibility": "Với nhận định trách nhiệm là gốc rễ của vấn đề, chúng tôi luôn chú trọng và đề ra nguyên tắc Customer centric (Khách hàng là trung tâm).",
+      "companion": "Không dừng lại ở việc đáp ứng nhu cầu khách hàng, chúng tôi luôn sát cánh và đồng hành cùng khách hàng trong suốt quá trình phát triển để cùng nhau hướng tới mục tiêu chung.",
+      "professional": "Văn hóa chuyên nghiệp là tấm gương phản chiếu các giá trị, niềm tin và phong cách làm việc chung của doanh nghiệp. Là yếu tố tiên quyết trong việc hình thành danh tiếng và uy tín của tổ chức."
+    }
+  },
+  "Register": {
+    "register": "Đăng ký",
+    "fullname": "Họ và tên",
+    "email": "Email",
+    "phone": "Số điện thoại",
+    "address": "Địa chỉ",
+    "message": "Nội dung",
+    "submit": "Gửi",
+    "content": "Hãy để lại thông tin của bạn, chúng tôi sẽ liên hệ với bạn sớm nhất có thể."
+  }
+}
